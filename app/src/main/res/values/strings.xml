@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HospitalRoutingAppK</string>
+    <string name="google_maps_key">Insert your API KEY</string>
+    <string name="inkaFarma_location">InkaFarma Location</string>
+    <string name="nearest_route">Nearest Route</string>
+    <string name="inkafarma_premises">inkafarma premises</string>
+    <string name="inkafarma_locations">InkaFarma Locations</string>
+</resources>
